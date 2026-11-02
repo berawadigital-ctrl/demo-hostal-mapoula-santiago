@@ -1,0 +1,41 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.mapoula.com/",
+ "read_at": "2026-11-02T09:25:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.mapoula.com/",
+   "sha256": "0bcb601244a73ea93f329e1d1ccd4a680a3de61aaae37e0804fd0a6f0e53bb63",
+   "chars": 3595
+  },
+  {
+   "url": "https://www.mapoula.com/alojamiento/",
+   "sha256": "a70b630f46ddbcd1eb50ce7573178147a7007060bf741478e418d59baf8844c9",
+   "chars": 6133
+  },
+  {
+   "url": "https://www.mapoula.com/contacto/",
+   "sha256": "b24306724cb42c01e270f581491b0f8ac9328ac0ee2b99acf2d1001cf69f1485",
+   "chars": 1917
+  },
+  {
+   "url": "https://www.mapoula.com/reservar/",
+   "sha256": "66a8186d7ed5b1169bc4ae77e11fe4eb4b2535776002aac7d37a6158fb6ac904",
+   "chars": 4196
+  }
+ ],
+ "other_pages_read": [
+  "https://www.mapoula.com/aviso-legal/",
+  "https://www.mapoula.com/en/",
+  "https://www.mapoula.com/en/alojamiento/",
+  "https://www.mapoula.com/en/aviso-legal/",
+  "https://www.mapoula.com/en/contacto/",
+  "https://www.mapoula.com/en/paginas-legales/",
+  "https://www.mapoula.com/en/politica-de-privacidad/",
+  "https://www.mapoula.com/en/reservar/",
+  "https://www.mapoula.com/paginas-legales/",
+  "https://www.mapoula.com/politica-de-cookies/",
+  "https://www.mapoula.com/politica-de-privacidad/"
+ ]
+}

@@ -1,0 +1,544 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hostal-mapoula-santiago",
+ "source_site": "https://www.mapoula.com/",
+ "source_read_at": "2026-11-02T09:25:00+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "habitaciones",
+     "wifi",
+     "minibar",
+     "television",
+     "climatizacion"
+    ],
+    "en": [
+     "rooms",
+     "wifi",
+     "minibar",
+     " tv",
+     "air conditioning",
+     "include"
+    ],
+    "fr": [
+     "chambres",
+     "wifi",
+     "minibar",
+     "television",
+     "climatisation",
+     "comprennent"
+    ],
+    "de": [
+     "zimmer",
+     "wlan",
+     "minibar",
+     "fernseh",
+     "klimaanlage"
+    ]
+   },
+   "a": {
+    "es": "Las habitaciones combinan madera y piedra con climatización de aire caliente y frío, minibar, wifi gratuito, TV con canal satélite, teléfono, caja fuerte y aseo con secador y amenities.",
+    "en": "Rooms combine wood and stone with hot and cold air conditioning, minibar, free wifi, satellite TV, telephone, safe and a bathroom with hairdryer and toiletries.",
+    "fr": "Les chambres allient bois et pierre, avec climatisation chaud/froid, minibar, wifi gratuit, TV satellite, téléphone, coffre-fort et salle d’eau avec sèche-cheveux et produits d’accueil.",
+    "de": "Die Zimmer verbinden Holz und Stein mit Klimaanlage für warme und kalte Luft, Minibar, kostenlosem WLAN, Satelliten-TV, Telefon, Safe und Bad mit Föhn und Pflegeartikeln."
+   },
+   "sources": [
+    {
+     "url": "https://www.mapoula.com/alojamiento/",
+     "quote": "madera, piedra, climatización, amenities, minibar, WiFi, caja fuerte y más"
+    },
+    {
+     "url": "https://www.mapoula.com/alojamiento/",
+     "quote": "Wifi: gratuito para nuestros clientes"
+    },
+    {
+     "url": "https://www.mapoula.com/alojamiento/",
+     "quote": "TV: con canal satélite Teléfono en habitación Minibar Climatización aire caliente y frío"
+    },
+    {
+     "url": "https://www.mapoula.com/alojamiento/",
+     "quote": "nuestros aseos disponen de secador y un pequeño lote de amenities"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "desayuno",
+   "keys": {
+    "es": [
+     "desayuno",
+     "desayunar",
+     "cafeteria"
+    ],
+    "en": [
+     "breakfast",
+     "cafe"
+    ],
+    "fr": [
+     "petit-dejeuner",
+     "petit dejeuner",
+     "cafeteria"
+    ],
+    "de": [
+     "fruhstuck",
+     "cafeteria"
+    ]
+   },
+   "a": {
+    "es": "Sí: tienen servicio de desayunos, elaborado con productos gallegos, de temporada y de proveedores locales. También hay cafetería y sala de estar.",
+    "en": "Yes: there is a breakfast service made with Galician, seasonal products from local suppliers. There is also a café and a lounge.",
+    "fr": "Oui : un service de petit-déjeuner avec des produits galiciens, de saison et de fournisseurs locaux. Il y a aussi une cafétéria et un salon.",
+    "de": "Ja: Es gibt Frühstück mit galicischen, saisonalen Produkten von regionalen Lieferanten. Außerdem eine Cafeteria und einen Aufenthaltsraum."
+   },
+   "sources": [
+    {
+     "url": "https://www.mapoula.com/alojamiento/",
+     "quote": "Servicio de desayunos"
+    },
+    {
+     "url": "https://www.mapoula.com/reservar/",
+     "quote": "elaborado con productos gallegos, de temporada y de proveedores locales"
+    },
+    {
+     "url": "https://www.mapoula.com/alojamiento/",
+     "quote": "Disponemos de servicios adicionales como cafetería y sala de estar"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparc",
+     "garaje",
+     "coche"
+    ],
+    "en": [
+     "park",
+     "garage",
+     "car "
+    ],
+    "fr": [
+     "parking",
+     "garer",
+     "garage",
+     "voiture"
+    ],
+    "de": [
+     "parkplatz",
+     "parken",
+     "garage",
+     " auto"
+    ]
+   },
+   "a": {
+    "es": "Hay un parking público a 20 m; en alguno de ellos tienen precios especiales.",
+    "en": "There is a public car park 20 m away; they have special rates at some of them.",
+    "fr": "Il y a un parking public à 20 m ; ils ont des tarifs spéciaux dans certains d’entre eux.",
+    "de": "20 m entfernt gibt es ein öffentliches Parkhaus; bei einigen gelten Sonderpreise."
+   },
+   "sources": [
+    {
+     "url": "https://www.mapoula.com/alojamiento/",
+     "quote": "Parking público a 20 m.Tenemos precios especiales en alguno de ellos"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde estais",
+     "direccion",
+     "ubicacion"
+    ],
+    "en": [
+     "where are",
+     "address",
+     "location"
+    ],
+    "fr": [
+     "ou etes",
+     "adresse",
+     "situe"
+    ],
+    "de": [
+     "wo liegt",
+     "wo ist",
+     "adresse"
+    ]
+   },
+   "a": {
+    "es": "Están en Entremurallas, 10-3º, en la zona monumental de Santiago, en la esquina de la Plaza de Galicia.",
+    "en": "They are at Entremurallas, 10-3º, in Santiago’s monumental area, on the corner of Plaza de Galicia.",
+    "fr": "La pension se trouve Entremurallas, 10-3º, dans la zone monumentale de Santiago, à l’angle de la Plaza de Galicia.",
+    "de": "Die Pension liegt in der Entremurallas, 10-3º, im Monumentalbereich von Santiago, an der Ecke der Plaza de Galicia."
+   },
+   "sources": [
+    {
+     "url": "https://www.mapoula.com/contacto/",
+     "quote": "Dirección: Entremurallas, 10-3º, Santiago Zona Monumental (España)"
+    },
+    {
+     "url": "https://www.mapoula.com/alojamiento/",
+     "quote": "Goza de una situación privilegiada en la esquina de la Plaza de Galicia"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "catedral",
+   "keys": {
+    "es": [
+     "catedral",
+     "distancia",
+     "alameda"
+    ],
+    "en": [
+     "cathedral",
+     "how far",
+     "alameda"
+    ],
+    "fr": [
+     "cathedrale",
+     "distance",
+     "alameda"
+    ],
+    "de": [
+     "kathedrale",
+     "wie weit",
+     "alameda"
+    ]
+   },
+   "a": {
+    "es": "La Catedral está a 5 minutos a pie. El parque de La Alameda, con vistas a la Catedral, queda a 100 metros.",
+    "en": "The Cathedral is a 5-minute walk away. La Alameda park, with views of the Cathedral, is 100 metres away.",
+    "fr": "La cathédrale est à 5 minutes à pied. Le parc de La Alameda, avec vue sur la cathédrale, est à 100 mètres.",
+    "de": "Die Kathedrale ist 5 Gehminuten entfernt. Der Park La Alameda mit Blick auf die Kathedrale liegt 100 Meter entfernt."
+   },
+   "sources": [
+    {
+     "url": "https://www.mapoula.com/reservar/",
+     "quote": "Estamos a solo 5 minutos a pie de la Catedral de Santiago"
+    },
+    {
+     "url": "https://www.mapoula.com/alojamiento/",
+     "quote": "el magnífico parque de La Alameda se sitúa a 100 metros, desde el cuál podrá gozar de unas incomparables vistas a la Catedral"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "transporte",
+   "keys": {
+    "es": [
+     "aeropuerto",
+     "tren",
+     "estacion",
+     "taxi",
+     "autobus"
+    ],
+    "en": [
+     "airport",
+     "from the airport",
+     "train",
+     "station",
+     "taxi",
+     "bus"
+    ],
+    "fr": [
+     "aeroport",
+     "train",
+     "gare",
+     "taxi",
+     "bus"
+    ],
+    "de": [
+     "flughafen",
+     "bahnhof",
+     "zug",
+     "taxi",
+     "bus"
+    ]
+   },
+   "a": {
+    "es": "En la Plaza de Galicia hay parada de taxis, autobuses urbanos y, cada media hora, autobús directo al aeropuerto. La estación de tren está a unos 300 metros.",
+    "en": "Plaza de Galicia has a taxi rank, city buses and a direct airport bus every half hour. The train station is about 300 metres away.",
+    "fr": "Sur la Plaza de Galicia, il y a une station de taxis, des bus urbains et, toutes les demi-heures, un bus direct pour l’aéroport. La gare est à environ 300 mètres.",
+    "de": "An der Plaza de Galicia gibt es einen Taxistand, Stadtbusse und alle halbe Stunde einen Direktbus zum Flughafen. Der Bahnhof ist etwa 300 Meter entfernt."
+   },
+   "sources": [
+    {
+     "url": "https://www.mapoula.com/alojamiento/",
+     "quote": "una parada de Taxis, servicio de autobuses urbanos y, cada media hora, servicio directo de autobús al aeropuerto. La estación de tren se encuentra a unos 300 metros"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar",
+     "bestatig"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar en su propia web de reserva (botón Reservar) o preguntar por teléfono o por correo. Este asistente no confirma disponibilidad ni reservas.",
+    "en": "You can book on their own booking website (Book button) or ask by phone or email. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver sur leur propre site de réservation (bouton Réserver) ou demander par téléphone ou par e-mail. Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Sie können über die eigene Buchungsseite buchen (Schaltfläche Buchen) oder telefonisch bzw. per E-Mail anfragen. Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://www.mapoula.com/reservar/",
+     "quote": "NUESTRO PROPIA WEB DE RESERVA"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K08",
+   "topic": "late check-out",
+   "keys": {
+    "es": [
+     "mas tarde",
+     "late",
+     "salir tarde"
+    ],
+    "en": [
+     "late",
+     "check out late"
+    ],
+    "fr": [
+     "plus tard",
+     "depart tardif",
+     "late"
+    ],
+    "de": [
+     "spater",
+     "late",
+     "auschecken"
+    ]
+   },
+   "a": {
+    "es": "Ofrecen late check-out, sujeto a disponibilidad.",
+    "en": "They offer late check-out, subject to availability.",
+    "fr": "Ils proposent un départ tardif, selon disponibilité.",
+    "de": "Später Check-out ist je nach Verfügbarkeit möglich."
+   },
+   "sources": [
+    {
+     "url": "https://www.mapoula.com/alojamiento/",
+     "quote": "Late Check-out (sujeto a disponibilidad)"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "cuna",
+   "keys": {
+    "es": [
+     "cuna",
+     "bebe",
+     "supletoria"
+    ],
+    "en": [
+     " cot",
+     "crib",
+     "baby",
+     "extra bed"
+    ],
+    "fr": [
+     "lit bebe",
+     "bebe",
+     "lit d’appoint"
+    ],
+    "de": [
+     "kinderbett",
+     "baby",
+     "zustellbett"
+    ]
+   },
+   "a": {
+    "es": "Sí: tienen cuna para bebé y camas supletorias.",
+    "en": "Yes: they have a baby cot and extra beds.",
+    "fr": "Oui : ils ont un lit bébé et des lits d’appoint.",
+    "de": "Ja: Es gibt ein Babybett und Zustellbetten."
+   },
+   "sources": [
+    {
+     "url": "https://www.mapoula.com/alojamiento/",
+     "quote": "Camas supletorias Cuna bebé"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "excursiones",
+   "keys": {
+    "es": [
+     "excursion",
+     "alquiler de coches",
+     "alquilar"
+    ],
+    "en": [
+     "excursion",
+     "tour",
+     "car hire",
+     "rent a car"
+    ],
+    "fr": [
+     "excursion",
+     "location de voiture"
+    ],
+    "de": [
+     "ausflug",
+     "mietwagen"
+    ]
+   },
+   "a": {
+    "es": "Trabajan con distintos organizadores de excursiones a los lugares más emblemáticos de Galicia, y te informan sobre alquiler de coches.",
+    "en": "They work with several tour organisers for trips to Galicia’s most iconic places, and can give you information on car hire.",
+    "fr": "Ils travaillent avec plusieurs organisateurs d’excursions vers les lieux les plus emblématiques de Galice et vous renseignent sur la location de voitures.",
+    "de": "Sie arbeiten mit verschiedenen Veranstaltern für Ausflüge zu den bekanntesten Orten Galiciens und informieren über Mietwagen."
+   },
+   "sources": [
+    {
+     "url": "https://www.mapoula.com/alojamiento/",
+     "quote": "Excursiones: trabajamos con distintos organizadores de excursiones a los lugares más emblemáticos de Galicia"
+    },
+    {
+     "url": "https://www.mapoula.com/alojamiento/",
+     "quote": "Alquiler de coches: le ofreceremos toda la información que necesiten sobre este servicio"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "correo",
+     "email",
+     "contacto",
+     "llamar",
+     "movil"
+    ],
+    "en": [
+     "phone",
+     "email",
+     "contact",
+     "call",
+     "mobile"
+    ],
+    "fr": [
+     "telephone",
+     "courriel",
+     "email",
+     "contact",
+     "appeler",
+     "portable"
+    ],
+    "de": [
+     "telefon",
+     "e-mail",
+     "email",
+     "kontakt",
+     "anrufen",
+     "mobil"
+    ]
+   },
+   "a": {
+    "es": "Teléfono: (+34) 981 58 01 24. Móvil: (+34) 659 57 81 22. Correo: mapoula@mapoula.com.",
+    "en": "Phone: (+34) 981 58 01 24. Mobile: (+34) 659 57 81 22. Email: mapoula@mapoula.com.",
+    "fr": "Téléphone : (+34) 981 58 01 24. Portable : (+34) 659 57 81 22. E-mail : mapoula@mapoula.com.",
+    "de": "Telefon: (+34) 981 58 01 24. Mobil: (+34) 659 57 81 22. E-Mail: mapoula@mapoula.com."
+   },
+   "sources": [
+    {
+     "url": "https://www.mapoula.com/",
+     "quote": "(+34) 981 58 01 24 - (+34) 659 57 81 22 Entremurallas, 10-3º, Santiago Zona Monumental (España) mapoula@mapoula.com"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K12",
+   "topic": "sostenibilidad",
+   "keys": {
+    "es": [
+     "sostenib",
+     "medio ambiente",
+     "ecolog"
+    ],
+    "en": [
+     "sustainab",
+     "environment",
+     "eco"
+    ],
+    "fr": [
+     "durable",
+     "environnement",
+     "ecolog"
+    ],
+    "de": [
+     "nachhaltig",
+     "umwelt"
+    ]
+   },
+   "a": {
+    "es": "Usan bombillas LED y sensores de movimiento en zonas comunes, clasifican los residuos, reducen plásticos, compran productos de proximidad y colaboran con iniciativas sociales.",
+    "en": "They use LED bulbs and motion sensors in common areas, sort their waste, reduce plastics, buy local products and support social initiatives.",
+    "fr": "Ampoules LED et détecteurs de mouvement dans les parties communes, tri des déchets, moins de plastique, produits locaux et soutien à des initiatives sociales.",
+    "de": "LED-Lampen und Bewegungsmelder in Gemeinschaftsbereichen, Mülltrennung, weniger Plastik, regionale Produkte und Unterstützung sozialer Initiativen."
+   },
+   "sources": [
+    {
+     "url": "https://www.mapoula.com/",
+     "quote": "Bombillas LED, reducción de plásticos, productos de proximidad, ahorro energético y colaboración con iniciativas sociales"
+    },
+    {
+     "url": "https://www.mapoula.com/alojamiento/",
+     "quote": "contamos con sensores de movimiento en las zonas comunes para fomentar el ahorro energético. Separación de residuos"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
