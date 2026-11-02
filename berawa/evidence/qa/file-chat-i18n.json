@@ -1,0 +1,420 @@
+{
+ "url": "file:///tmp/clon-hostal-mapoula-santiago/repo/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué tienen las habitaciones?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Las habitaciones combinan madera y piedra con climatización de aire caliente y frío, minibar, wifi gratuito, TV con canal satélite, teléfono"
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí: tienen servicio de desayunos, elaborado con productos gallegos, de temporada y de proveedores locales. También hay cafetería y sala de e"
+    },
+    {
+     "q": "¿Dónde aparco?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Hay un parking público a 20 m; en alguno de ellos tienen precios especiales."
+    },
+    {
+     "q": "¿Dónde estáis?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Están en Entremurallas, 10-3º, en la zona monumental de Santiago, en la esquina de la Plaza de Galicia."
+    },
+    {
+     "q": "¿A qué distancia está la Catedral?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "La Catedral está a 5 minutos a pie. El parque de La Alameda, con vistas a la Catedral, queda a 100 metros."
+    },
+    {
+     "q": "¿Cómo llego desde el aeropuerto?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "En la Plaza de Galicia hay parada de taxis, autobuses urbanos y, cada media hora, autobús directo al aeropuerto. La estación de tren está a "
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Puedes reservar en su propia web de reserva (botón Reservar) o preguntar por teléfono o por correo. Este asistente no confirma disponibilida"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Puedes reservar en su propia web de reserva (botón Reservar) o preguntar por teléfono o por correo. Este asistente no confirma disponibilida"
+    },
+    {
+     "q": "¿Puedo salir más tarde?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Ofrecen late check-out, sujeto a disponibilidad."
+    },
+    {
+     "q": "¿Tenéis cuna?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sí: tienen cuna para bebé y camas supletorias."
+    },
+    {
+     "q": "¿Organizáis excursiones?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Trabajan con distintos organizadores de excursiones a los lugares más emblemáticos de Galicia, y te informan sobre alquiler de coches."
+    },
+    {
+     "q": "¿Cuál es vuestro teléfono?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Teléfono: (+34) 981 58 01 24. Móvil: (+34) 659 57 81 22. Correo: mapoula@mapoula.com. Consultar por WhatsApp →"
+    },
+    {
+     "q": "¿Qué hacéis por la sostenibilidad?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Usan bombillas LED y sensores de movimiento en zonas comunes, clasifican los residuos, reducen plásticos, compran productos de proximidad y "
+    },
+    {
+     "q": "¿Cuánto cuesta la noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 981 58 01 24 · +34 659 57 81 22 · mapoula@mapoula.com."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 981 58 01 24 · +34 659 57 81 22 · mapoula@mapoula.com."
+    }
+   ],
+   "chips": [
+    "¿Qué tienen las habitaciones?",
+    "¿Hay desayuno?",
+    "¿Dónde aparco?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "What do the rooms include?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Rooms combine wood and stone with hot and cold air conditioning, minibar, free wifi, satellite TV, telephone, safe and a bathroom with haird"
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Yes: there is a breakfast service made with Galician, seasonal products from local suppliers. There is also a café and a lounge."
+    },
+    {
+     "q": "Where can I park?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "There is a public car park 20 m away; they have special rates at some of them."
+    },
+    {
+     "q": "Where are you?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "They are at Entremurallas, 10-3º, in Santiago’s monumental area, on the corner of Plaza de Galicia."
+    },
+    {
+     "q": "How far is the Cathedral?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "The Cathedral is a 5-minute walk away. La Alameda park, with views of the Cathedral, is 100 metres away."
+    },
+    {
+     "q": "How do I get there from the airport?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Plaza de Galicia has a taxi rank, city buses and a direct airport bus every half hour. The train station is about 300 metres away."
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "You can book on their own booking website (Book button) or ask by phone or email. This assistant does not confirm availability or bookings. "
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "You can book on their own booking website (Book button) or ask by phone or email. This assistant does not confirm availability or bookings. "
+    },
+    {
+     "q": "Can I check out late?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "They offer late check-out, subject to availability."
+    },
+    {
+     "q": "Do you have a cot?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Yes: they have a baby cot and extra beds."
+    },
+    {
+     "q": "Do you organise excursions?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "They work with several tour organisers for trips to Galicia’s most iconic places, and can give you information on car hire."
+    },
+    {
+     "q": "What is your phone number?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Phone: (+34) 981 58 01 24. Mobile: (+34) 659 57 81 22. Email: mapoula@mapoula.com. Ask on WhatsApp →"
+    },
+    {
+     "q": "What do you do for sustainability?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "They use LED bulbs and motion sensors in common areas, sort their waste, reduce plastics, buy local products and support social initiatives."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 981 58 01 24 · +34 659 57 81 22 · mapoula@mapoula.com."
+    },
+    {
+     "q": "Do you have a pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 981 58 01 24 · +34 659 57 81 22 · mapoula@mapoula.com."
+    }
+   ],
+   "chips": [
+    "What do the rooms include?",
+    "Is there breakfast?",
+    "Where can I park?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Que comprennent les chambres ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Les chambres allient bois et pierre, avec climatisation chaud/froid, minibar, wifi gratuit, TV satellite, téléphone, coffre-fort et salle d’"
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Oui : un service de petit-déjeuner avec des produits galiciens, de saison et de fournisseurs locaux. Il y a aussi une cafétéria et un salon."
+    },
+    {
+     "q": "Où me garer ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Il y a un parking public à 20 m ; ils ont des tarifs spéciaux dans certains d’entre eux."
+    },
+    {
+     "q": "Où êtes-vous ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "La pension se trouve Entremurallas, 10-3º, dans la zone monumentale de Santiago, à l’angle de la Plaza de Galicia."
+    },
+    {
+     "q": "À quelle distance est la cathédrale ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "La cathédrale est à 5 minutes à pied. Le parc de La Alameda, avec vue sur la cathédrale, est à 100 mètres."
+    },
+    {
+     "q": "Comment venir depuis l’aéroport ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sur la Plaza de Galicia, il y a une station de taxis, des bus urbains et, toutes les demi-heures, un bus direct pour l’aéroport. La gare est"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur leur propre site de réservation (bouton Réserver) ou demander par téléphone ou par e-mail. Cet assistant ne confirm"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur leur propre site de réservation (bouton Réserver) ou demander par téléphone ou par e-mail. Cet assistant ne confirm"
+    },
+    {
+     "q": "Puis-je partir plus tard ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Ils proposent un départ tardif, selon disponibilité."
+    },
+    {
+     "q": "Avez-vous un lit bébé ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Oui : ils ont un lit bébé et des lits d’appoint."
+    },
+    {
+     "q": "Proposez-vous des excursions ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Ils travaillent avec plusieurs organisateurs d’excursions vers les lieux les plus emblématiques de Galice et vous renseignent sur la locatio"
+    },
+    {
+     "q": "Quel est votre numéro de téléphone ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Téléphone : (+34) 981 58 01 24. Portable : (+34) 659 57 81 22. E-mail : mapoula@mapoula.com. Écrire sur WhatsApp →"
+    },
+    {
+     "q": "Que faites-vous pour l’environnement ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Ampoules LED et détecteurs de mouvement dans les parties communes, tri des déchets, moins de plastique, produits locaux et soutien à des ini"
+    },
+    {
+     "q": "Combien coûte la nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 981 58 01 24 · +34 659 57 81 22 · mapoula@mapoula.com."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 981 58 01 24 · +34 659 57 81 22 · mapoula@mapoula.com."
+    }
+   ],
+   "chips": [
+    "Que comprennent les chambres ?",
+    "Y a-t-il un petit-déjeuner ?",
+    "Où me garer ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Was bieten die Zimmer?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Die Zimmer verbinden Holz und Stein mit Klimaanlage für warme und kalte Luft, Minibar, kostenlosem WLAN, Satelliten-TV, Telefon, Safe und Ba"
+    },
+    {
+     "q": "Gibt es Frühstück?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Ja: Es gibt Frühstück mit galicischen, saisonalen Produkten von regionalen Lieferanten. Außerdem eine Cafeteria und einen Aufenthaltsraum."
+    },
+    {
+     "q": "Wo kann ich parken?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "20 m entfernt gibt es ein öffentliches Parkhaus; bei einigen gelten Sonderpreise."
+    },
+    {
+     "q": "Wo liegt die Pension?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Die Pension liegt in der Entremurallas, 10-3º, im Monumentalbereich von Santiago, an der Ecke der Plaza de Galicia."
+    },
+    {
+     "q": "Wie weit ist die Kathedrale?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Die Kathedrale ist 5 Gehminuten entfernt. Der Park La Alameda mit Blick auf die Kathedrale liegt 100 Meter entfernt."
+    },
+    {
+     "q": "Wie komme ich vom Flughafen?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "An der Plaza de Galicia gibt es einen Taxistand, Stadtbusse und alle halbe Stunde einen Direktbus zum Flughafen. Der Bahnhof ist etwa 300 Me"
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sie können über die eigene Buchungsseite buchen (Schaltfläche Buchen) oder telefonisch bzw. per E-Mail anfragen. Dieser Assistent bestätigt "
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sie können über die eigene Buchungsseite buchen (Schaltfläche Buchen) oder telefonisch bzw. per E-Mail anfragen. Dieser Assistent bestätigt "
+    },
+    {
+     "q": "Kann ich später auschecken?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Später Check-out ist je nach Verfügbarkeit möglich."
+    },
+    {
+     "q": "Haben Sie ein Kinderbett?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Ja: Es gibt ein Babybett und Zustellbetten."
+    },
+    {
+     "q": "Bieten Sie Ausflüge an?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sie arbeiten mit verschiedenen Veranstaltern für Ausflüge zu den bekanntesten Orten Galiciens und informieren über Mietwagen."
+    },
+    {
+     "q": "Wie ist Ihre Telefonnummer?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Telefon: (+34) 981 58 01 24. Mobil: (+34) 659 57 81 22. E-Mail: mapoula@mapoula.com. Per WhatsApp schreiben →"
+    },
+    {
+     "q": "Was tun Sie für Nachhaltigkeit?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "LED-Lampen und Bewegungsmelder in Gemeinschaftsbereichen, Mülltrennung, weniger Plastik, regionale Produkte und Unterstützung sozialer Initi"
+    },
+    {
+     "q": "Was kostet eine Nacht?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 981 58 01 24 · +34 659 57 81 22 · mapoula@mapoula.com."
+    },
+    {
+     "q": "Haben Sie einen Pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 981 58 01 24 · +34 659 57 81 22 · mapoula@mapoula.com."
+    }
+   ],
+   "chips": [
+    "Was bieten die Zimmer?",
+    "Gibt es Frühstück?",
+    "Wo kann ich parken?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
