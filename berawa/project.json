@@ -1,0 +1,64 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hostal-mapoula-santiago",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-11-02T09:24:00+01:00",
+ "updated_at": "2026-11-02T09:35:00+01:00",
+ "business": {
+  "name": "Mapoula Pensión Boutique",
+  "legal_name": "HOSTAL MAPOULA S.L., NIF B42721662 (aviso legal de su web)",
+  "registry_ids": [
+   "B42721662"
+  ],
+  "url": "https://www.mapoula.com/",
+  "domain": "mapoula.com",
+  "municipality": "Santiago de Compostela",
+  "province": "A Coruña",
+  "address": "Entremurallas, 10-3º · Santiago de Compostela",
+  "phones": [
+   "+34 981 58 01 24",
+   "+34 659 57 81 22"
+  ],
+  "emails": [
+   "mapoula@mapoula.com"
+  ],
+  "sector": "pensión boutique familiar en el casco histórico de Santiago de Compostela"
+ },
+ "rating": {
+  "value": 4.6,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por tel, web)",
+  "url": "https://www.google.com/maps/search/Mapoula+Pensi%C3%B3n+Boutique+Santiago+de+Compostela?hl=es",
+  "date": "2026-10-30",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": "https://direct-book.com/properties/mapouladirect/",
+  "note": "motor propio enlazado desde su pagina /reservar/ («Nuestra propia web de reserva»): https://direct-book.com/properties/mapouladirect/ (es) y ?locale=en para en/fr/de, HTTP 200 los dos (02/11/2026 09:26)."
+ },
+ "audit_original": {
+  "url": "https://www.mapoula.com/",
+  "date": "2026-11-02T09:25:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
