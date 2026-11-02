@@ -1,0 +1,4 @@
+Ilustracion generada por codigo (make_art.py), tipo 'hills', semilla 9932, paleta ['#e5e4df', '#e3dcc8', '#c6b894', '#8b8c8a', '#646562', '#424340'].
+Sin fotografias ni logotipos: no muestra el establecimiento.
+Hash de los parametros: 65169ef7d8f5163e42946a79b9dca6aeecf532f9ce4f653823bfd3120bb6e6b0
+Licencia: Ilustracion propia de Berawa Solutions, generada por berawa/build/make_art.py (Pillow): sin fotos, logos ni textos de terceros; uso libre para esta propuesta.
